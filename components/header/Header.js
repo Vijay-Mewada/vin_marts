@@ -39,7 +39,7 @@ const Header = () => {
                             <div className='w-6 h-6 ml-6 mt-2 mr-1 shadow-xl bg-blue-950 absolute rounded-full flex '>
                                 <p className='m-auto text-white font-bold text-center '>0</p>
                             </div>
-                            <ShoppingCartCheckoutOutlinedIcon className='ml-auto my-auto h-10 w-10 mr-2' />
+                            <ShoppingCartCheckoutOutlinedIcon className='ml-auto my-auto h-10 w-10 mr-2 text-white' />
                         </div>
 
                         
