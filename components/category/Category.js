@@ -26,7 +26,7 @@ const Category = () => {
                         </a>
                         <a href="#" class="relative m-auto">
                             <div class="h-22  w-22 flex flex-wrap content-center m-auto">
-                                <img src="/images/skincare.png" class="m-auto rounded-full " alt="" />
+                                <img src="/images/personalcare.png" class="m-auto rounded-full " alt="" />
                             </div>
                         </a>
                     </div>
@@ -55,7 +55,7 @@ const Category = () => {
                         </a>
                         <a href="#" class="relative m-auto">
                             <div class="h-22  w-22 flex flex-wrap content-center m-auto">
-                                <img src="/images/skincare.png" class="m-auto rounded-full " alt="" />
+                                <img src="/images/wellness.png" class="m-auto rounded-full " alt="" />
                             </div>
                         </a>
                     </div>
@@ -69,7 +69,7 @@ const Category = () => {
                         </a>
                         <a href="#" class="relative m-auto">
                             <div class="h-22  w-22 flex flex-wrap content-center m-auto">
-                                <img src="/images/skincare.png" class="m-auto rounded-full " alt="" />
+                                <img src="/images/healthcare.png" class="m-auto rounded-full " alt="" />
                             </div>
                         </a>
                     </div>
@@ -83,7 +83,7 @@ const Category = () => {
                         </a>
                         <a href="#" class="relative m-auto">
                             <div class="h-22  w-22 flex flex-wrap content-center m-auto">
-                                <img src="/images/skincare.png" class="m-auto rounded-full " alt="" />
+                                <img src="/images/fmgc.png" class="m-auto rounded-full " alt="" />
                             </div>
                         </a>
                     </div>
@@ -97,7 +97,7 @@ const Category = () => {
                         </a>
                         <a href="#" class="relative m-auto">
                             <div class="h-22  w-22 flex flex-wrap content-center m-auto">
-                                <img src="/images/skincare.png" class="m-auto rounded-full " alt="" />
+                                <img src="/images/classical1.png" class="m-auto rounded-full " alt="" />
                             </div>
                         </a>
                     </div>
@@ -111,7 +111,7 @@ const Category = () => {
                         </a>
                         <a href="#" class="relative m-auto">
                             <div class="h-22  w-22 flex flex-wrap content-center m-auto">
-                                <img src="/images/skincare.png" class="m-auto rounded-full " alt="" />
+                                <img src="/images/promotional.png" class="m-auto rounded-full " alt="" />
                             </div>
                         </a>
                     </div>
@@ -125,7 +125,7 @@ const Category = () => {
                         </a>
                         <a href="#" class="relative m-auto">
                             <div class="h-22  w-22 flex flex-wrap content-center m-auto">
-                                <img src="/images/skincare.png" class="m-auto rounded-full " alt="" />
+                                <img src="/images/Agriculture.png" class="m-auto rounded-full " alt="" />
                             </div>
                         </a>
                     </div>
@@ -139,7 +139,7 @@ const Category = () => {
                         </a>
                         <a href="#" class="relative m-auto">
                             <div class="h-22  w-22 flex flex-wrap content-center m-auto">
-                                <img src="/images/skincare.png" class="m-auto rounded-full " alt="" />
+                                <img src="/images/Veterinary.png" class="m-auto rounded-full " alt="" />
                             </div>
                         </a>
                     </div>
@@ -153,7 +153,7 @@ const Category = () => {
                         </a>
                         <a href="#" class="relative m-auto">
                             <div class="h-22  w-22 flex flex-wrap content-center m-auto">
-                                <img src="/images/skincare.png" class="m-auto rounded-full " alt="" />
+                                <img src="/images/businesstool.webp" class="m-auto rounded-full " alt="" />
                             </div>
                         </a>
                     </div>
