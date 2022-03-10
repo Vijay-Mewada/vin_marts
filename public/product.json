@@ -1,26 +1,184 @@
 {
-    "products" : [{
+    "products" : [
+        {
         "title":"Neem Face Cleaner",
+        "discount":"25%",
         "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
         "quantity":"(100 gm)",
         "image":"/images/cleanser.webp",
+        "mrp":"250",
         "price":"109.25",
         "category":"face & beauty care"
     },
     {
         "title":"Neem Face Cleaner",
+        "discount":"25%",
         "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
         "quantity":"(100 gm)",
         "image":"/images/spot.png",
+        "mrp":"250",
         "price":"109.25",
         "category":"face & beauty care"
     },
     {
         "title":"Berry Face Cleaner",
+        "discount":"20%",
         "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
         "quantity":"(100 gm)",
         "image":"/images/facewash.webp",
+        "mrp":"250",
         "price":"109.25",
         "category":"face & beauty care"
-    }]
+    },
+    {
+        "title":"Neem Face Cleaner",
+        "discount":"25%",
+        "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
+        "quantity":"(100 gm)",
+        "image":"/images/cleanser.webp",
+        "mrp":"250",
+        "price":"109.25",
+        "category":"face & beauty care"
+    },
+    {
+        "title":"Neem Face Cleaner",
+        "discount":"25%",
+        "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
+        "quantity":"(100 gm)",
+        "image":"/images/spot.png",
+        "mrp":"250",
+        "price":"109.25",
+        "category":"face & beauty care"
+    },
+    {
+        "title":"Berry Face Cleaner",
+        "discount":"20%",
+        "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
+        "quantity":"(100 gm)",
+        "image":"/images/facewash.webp",
+        "mrp":"250",
+        "price":"109.25",
+        "category":"face & beauty care"
+    },
+    {
+        "title":"Neem Face Cleaner",
+        "discount":"25%",
+        "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
+        "quantity":"(100 gm)",
+        "image":"/images/cleanser.webp",
+        "mrp":"250",
+        "price":"109.25",
+        "category":"face & beauty care"
+    },
+    {
+        "title":"Neem Face Cleaner",
+        "discount":"25%",
+        "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
+        "quantity":"(100 gm)",
+        "image":"/images/spot.png",
+        "mrp":"250",
+        "price":"109.25",
+        "category":"face & beauty care"
+    },
+    {
+        "title":"Berry Face Cleaner",
+        "discount":"20%",
+        "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
+        "quantity":"(100 gm)",
+        "image":"/images/facewash.webp",
+        "mrp":"250",
+        "price":"109.25",
+        "category":"face & beauty care"
+    },
+    {
+        "title":"Neem Face Cleaner",
+        "discount":"25%",
+        "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
+        "quantity":"(100 gm)",
+        "image":"/images/cleanser.webp",
+        "mrp":"250",
+        "price":"109.25",
+        "category":"face & beauty care"
+    },
+    {
+        "title":"Neem Face Cleaner",
+        "discount":"25%",
+        "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
+        "quantity":"(100 gm)",
+        "image":"/images/spot.png",
+        "mrp":"250",
+        "price":"109.25",
+        "category":"face & beauty care"
+    },
+    {
+        "title":"Berry Face Cleaner",
+        "discount":"20%",
+        "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
+        "quantity":"(100 gm)",
+        "image":"/images/facewash.webp",
+        "mrp":"250",
+        "price":"109.25",
+        "category":"face & beauty care"
+    },
+    {
+        "title":"Neem Face Cleaner",
+        "discount":"25%",
+        "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
+        "quantity":"(100 gm)",
+        "image":"/images/cleanser.webp",
+        "mrp":"250",
+        "price":"109.25",
+        "category":"face & beauty care"
+    },
+    {
+        "title":"Neem Face Cleaner",
+        "discount":"25%",
+        "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
+        "quantity":"(100 gm)",
+        "image":"/images/spot.png",
+        "mrp":"250",
+        "price":"109.25",
+        "category":"face & beauty care"
+    },
+    {
+        "title":"Berry Face Cleaner",
+        "discount":"20%",
+        "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
+        "quantity":"(100 gm)",
+        "image":"/images/facewash.webp",
+        "mrp":"250",
+        "price":"109.25",
+        "category":"face & beauty care"
+    },
+    {
+        "title":"Neem Face Cleaner",
+        "discount":"25%",
+        "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
+        "quantity":"(100 gm)",
+        "image":"/images/cleanser.webp",
+        "mrp":"250",
+        "price":"109.25",
+        "category":"face & beauty care"
+    },
+    {
+        "title":"Neem Face Cleaner",
+        "discount":"25%",
+        "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
+        "quantity":"(100 gm)",
+        "image":"/images/spot.png",
+        "mrp":"250",
+        "price":"109.25",
+        "category":"face & beauty care"
+    },
+    {
+        "title":"Berry Face Cleaner",
+        "discount":"20%",
+        "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
+        "quantity":"(100 gm)",
+        "image":"/images/facewash.webp",
+        "mrp":"250",
+        "price":"109.25",
+        "category":"face & beauty care"
+    }
+]
 }
