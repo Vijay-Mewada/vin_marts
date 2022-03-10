@@ -1,0 +1,26 @@
+{
+    "products" : [{
+        "title":"Neem Face Cleaner",
+        "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
+        "quantity":"(100 gm)",
+        "image":"/images/cleanser.webp",
+        "price":"109.25",
+        "category":"face & beauty care"
+    },
+    {
+        "title":"Neem Face Cleaner",
+        "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
+        "quantity":"(100 gm)",
+        "image":"/images/spot.png",
+        "price":"109.25",
+        "category":"face & beauty care"
+    },
+    {
+        "title":"Berry Face Cleaner",
+        "description":" Antimicrobial Face Cleanser For All Types Of Skin ",
+        "quantity":"(100 gm)",
+        "image":"/images/facewash.webp",
+        "price":"109.25",
+        "category":"face & beauty care"
+    }]
+}
