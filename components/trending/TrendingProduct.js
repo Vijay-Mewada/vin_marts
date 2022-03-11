@@ -5,6 +5,8 @@ import axios from 'axios'
 import ShoppingCartCheckoutIcon from '@mui/icons-material/ShoppingCartCheckout';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 import CheckIcon from '@mui/icons-material/Check';
+import { ToastContainer, toast } from 'react-toastify';
+import Link from 'next/link'
 // import products from '../../pages/api/product.json'
 
 const TrendingProduct = () => {
@@ -12,6 +14,10 @@ const TrendingProduct = () => {
   const [item, setItem] = useState('')
   const [fev, setFev] = useState("white")
   const [isLoading, setLoading] = useState(true)
+
+  const notify = () => toast.success("Item is Added to cart");
+
+
   const style = {
     minHeight: "200px",
     maxHeight: "250px",
@@ -40,7 +46,7 @@ const TrendingProduct = () => {
   }
 
   return (
-    <div>
+    <div><ToastContainer  />
       <h1 className='my-2 text-2xl font-semibold ml-2'>Trending Skin Care</h1>
 
       <Grid container item>
@@ -50,11 +56,12 @@ const TrendingProduct = () => {
 
             <div className='flex'>
              
-              <Card sx={{ maxWidth: 345, maxHeight: 500, minHeight: 300 }} className='m-auto my-4 ' style={{ borderRadius: '25px' }}>
+              <Link href='/ProductDetail'>
+                <Card sx={{ maxWidth: 345, maxHeight: 500, minHeight: 300 }} className='m-auto my-4 ' style={{ borderRadius: '25px' }}>
               <div className='w-16 h-16 -ml-2 -mt-3 shadow-xl bg-blue-950 absolute rounded-full flex  group-hover:animate-bounce duration-300 z-20'>
                 <p className='m-auto text-white font-bold'>{product.discount}</p>
               </div>
-                <div className="group relative">
+                <div className="group relative cursor-pointer">
                   <div style={{ maxWidth: 345, maxHeight: 500, minHeight: 300 }} className="overlay absolute bg-blue-975 z-10 overflow-hidden w-0 h-full ease-in duration-300 group-hover:w-full">
                     <FavoriteIcon className='mr-2 text-3xl ml-auto flex mt-2 text-red-500'  />
                     {/* <div className="text text-white top-1/2 left-1/2 absolute -translate-x-1/2">Hello World</div> */}
@@ -77,11 +84,11 @@ const TrendingProduct = () => {
                     </div>
 
                     <div className='flex'>
-                      <Button className='m-auto mt-2 border-white border-2 text-white rounded-3xl p-0 px-2' variant="outlined"> Add to Cart &nbsp;<ShoppingCartCheckoutIcon className='text-white ml-auto flex' /></Button>
+                      <Button className='m-auto mt-9 mb-2 border-white border-2 text-white rounded-3xl p-0 px-2 z-10' variant="outlined" onClick={notify}> Add to Cart &nbsp; <div className=' bg-white w-12 h-12 group-hover:animate-ping absolute m-auto flex rounded-full'></div><ShoppingCartCheckoutIcon className='text-white ml-auto flex' /></Button>
                     </div>
 
                     <div className='flex'>
-                      <Button className='m-auto mt-2 border-white border-2 text-white rounded-3xl p-0 px-2' variant="outlined"> Buy Now &nbsp; <div className=' bg-white w-14 h-14 group-hover:animate-ping absolute m-auto flex rounded-full'></div> <CheckIcon className='text-white ml-auto flex' /></Button>
+                      {/* <Button className='m-auto mt-2 border-white border-2 text-white rounded-3xl p-0 px-2' variant="outlined"> Buy Now &nbsp;  <CheckIcon className='text-white ml-auto flex' /></Button> */}
                     </div>
 
                   </div>
@@ -118,6 +125,7 @@ const TrendingProduct = () => {
                   </CardActionArea>
                 </div>
               </Card>
+              </Link>
 
             </div>
 
