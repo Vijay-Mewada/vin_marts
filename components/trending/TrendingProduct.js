@@ -3,11 +3,14 @@ import React, { useEffect, useState } from 'react'
 import { Button, CardActionArea, CardActions, Typography, CardMedia, CardContent, Card } from '@mui/material';
 import axios from 'axios'
 import ShoppingCartCheckoutIcon from '@mui/icons-material/ShoppingCartCheckout';
+import FavoriteIcon from '@mui/icons-material/Favorite';
+import CheckIcon from '@mui/icons-material/Check';
 // import products from '../../pages/api/product.json'
 
 const TrendingProduct = () => {
 
   const [item, setItem] = useState('')
+  const [fev, setFev] = useState("white")
   const [isLoading, setLoading] = useState(true)
   const style = {
     minHeight: "200px",
@@ -16,6 +19,7 @@ const TrendingProduct = () => {
     margin: "auto",
     padding: "0px"
   };
+
 
 
 
@@ -41,22 +45,60 @@ const TrendingProduct = () => {
 
       <Grid container item>
         {item.products.map((product) => {
-          return <Grid lg={3} md={6} sm={12} className="px-2 group">
+          return <Grid lg={3} md={4} sm={6} xs={12} xl={2} className="px-2 group">
 
 
             <div className='flex'>
-              <div className='w-16 h-16 -ml-2 -mt-2 shadow-xl bg-blue-950 absolute rounded-full flex  group-hover:animate-bounce duration-300'>
+             
+              <Card sx={{ maxWidth: 345, maxHeight: 500, minHeight: 300 }} className='m-auto my-4 ' style={{ borderRadius: '25px' }}>
+              <div className='w-16 h-16 -ml-2 -mt-3 shadow-xl bg-blue-950 absolute rounded-full flex  group-hover:animate-bounce duration-300 z-20'>
                 <p className='m-auto text-white font-bold'>{product.discount}</p>
               </div>
-              <Card sx={{ maxWidth: 345, maxHeight: 500 }} className='m-auto my-4 ' style={{ border: "2px solid #0096FF", borderRadius: '10px' }}>
-                <CardActionArea>
-                  <CardMedia
-                    style={style}
-                    component="img"
-                    image={product.image}
-                    alt="green iguana"
-                  />
-                  <CardContent style={{ backgroundColor: "#0096FF" }}>
+                <div className="group relative">
+                  <div style={{ maxWidth: 345, maxHeight: 500, minHeight: 300 }} className="overlay absolute bg-blue-975 z-10 overflow-hidden w-0 h-full ease-in duration-300 group-hover:w-full">
+                    <FavoriteIcon className='mr-2 text-3xl ml-auto flex mt-2 text-red-500'  />
+                    {/* <div className="text text-white top-1/2 left-1/2 absolute -translate-x-1/2">Hello World</div> */}
+
+                    <Typography gutterBottom variant="h6" component="div" className="text-white text-center font-semibold font-serif">
+                      {product.title}
+                    </Typography>
+                    <Typography gutterBottom variant="body" component="div" className="text-white text-center font-semibold">
+                      {product.category}
+                    </Typography>
+
+                    <Typography gutterBottom variant="body" component="div" className="text-white text-center p-1 text-ellipsis max-w-sm overflow-hidden" >
+                      {product.description.length > 50 ? product.description.substring(0, 50) + "..." : product.description}
+                    </Typography>
+
+
+                    <div className='flex'>
+                      <p className='text-lg font-semibold text-white ml-auto'>&#x20B9; {product.price}</p>&nbsp;
+                      <p className='text-lg font-semibold text-white line-through mr-auto text-center'> &#x20B9; {product.mrp}</p>
+                    </div>
+
+                    <div className='flex'>
+                      <Button className='m-auto mt-2 border-white border-2 text-white rounded-3xl p-0 px-2' variant="outlined"> Add to Cart &nbsp;<ShoppingCartCheckoutIcon className='text-white ml-auto flex' /></Button>
+                    </div>
+
+                    <div className='flex'>
+                      <Button className='m-auto mt-2 border-white border-2 text-white rounded-3xl p-0 px-2' variant="outlined"> Buy Now &nbsp; <div className=' bg-white w-14 h-14 group-hover:animate-ping absolute m-auto flex rounded-full'></div> <CheckIcon className='text-white ml-auto flex' /></Button>
+                    </div>
+
+                  </div>
+                  <CardActionArea>
+
+                    <CardMedia
+                      style={style}
+                      component="img"
+                      image={product.image}
+                      alt="green iguana"
+                    />
+                    <Typography gutterBottom variant="h6" component="div" className="text-gray-500 text-center font-semibold font-serif">
+                      {product.title}
+                    </Typography>
+
+
+                    {/* <CardContent style={{ backgroundColor: "#0096FF" }}>
                     <Typography gutterBottom variant="h6" component="div" className="text-white font-semibold font-serif">
                       {product.title}
                       <p className='text-sm'>Quantity : {product.quantity}</p>
@@ -65,15 +107,16 @@ const TrendingProduct = () => {
                       {product.description}
                     </Typography>
                     <div className='flex'>
-                    <p className='text-lg font-semibold text-white'>&#x20B9; {product.price}</p>&emsp;
-                    <p className='text-lg font-semibold text-white line-through'> &#x20B9; {product.mrp}</p>
-                    <div className='ml-auto'>
-                    <ShoppingCartCheckoutIcon className='mr-2 text-white text-3xl' />
-                    <Button className='bg-blue-950 text-white font-semibold'>Buy Now</Button>
+                      <p className='text-lg font-semibold text-white'>&#x20B9; {product.price}</p>&emsp;
+                      <p className='text-lg font-semibold text-white line-through'> &#x20B9; {product.mrp}</p>
+                      <div className='ml-auto'>
+                        <ShoppingCartCheckoutIcon className='mr-2 text-white text-3xl' />
+                        <Button className='bg-blue-950 text-white font-semibold'>Buy Now</Button>
                       </div>
                     </div>
-                  </CardContent>
-                </CardActionArea>
+                  </CardContent> */}
+                  </CardActionArea>
+                </div>
               </Card>
 
             </div>
