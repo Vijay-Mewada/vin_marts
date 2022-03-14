@@ -28,7 +28,6 @@ const props = { height: 250, zoomWidth: 500,zoomLensStyle:'opacity: 0.7;backgrou
 
 
   return (
-<<<<<<< HEAD
     <div className='flex'>
       <img src='/images/strach.png' className='w-12 h-12 border-2 m-2 border-black'/>
         <ReactImageMagnify {...{
@@ -108,7 +107,6 @@ const props = { height: 250, zoomWidth: 500,zoomLensStyle:'opacity: 0.7;backgrou
 
       </Grid>
       
->>>>>>> 2aac98c2f312d87943d77ec98309aed02213bb54
     </div>
   )
 }
