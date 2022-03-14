@@ -1,12 +1,14 @@
 import { Grid, Typography } from '@mui/material';
 import React, { useEffect, useState } from 'react'
-import ReactImageMagnify from 'react-image-magnify';
 import axios from 'axios';
 import Rating from '../components/rating/Rating';
+import ReactImageZoom from 'react-image-zoom';
 
 const ProductDetail = () => {
 const [isLoading, setLoading] = useState(true)
 const [item, setItem] = useState('')
+
+const props = { height: 250, zoomWidth: 500,zoomLensStyle:'opacity: 0.7;background-color: green',zoomPosition:"right", img: "/images/strach.png", backgroundColor:"#fff"};
 
   useEffect(async () => {
     // let res = await axios.get('https://fakestoreapi.com/products')
@@ -37,7 +39,7 @@ const [item, setItem] = useState('')
         </Grid>
 
         <Grid lg={3} xl={3}>
-        <img src="/images/strach.png"/>
+        <ReactImageZoom {...props} style={{ backgroundColor:"#fff"}}/>
         </Grid>
 
         <Grid lg={8} xl={8}>
@@ -84,21 +86,7 @@ const [item, setItem] = useState('')
         </Grid>
 
       </Grid>
-        <ReactImageMagnify {...{
-    smallImage: {
-        alt: 'Wristwatch by Ted Baker London',
-        width: 256,
-        height:192,
-        // isFluidWidth: true,
-        src: "/images/strach.png",
-        sizes: '(min-width: 800px) 33.5vw, (min-width: 415px) 50vw, 100vw',
-    },
-    largeImage: {
-        src: "/images/strach.png",
-        width: 1200,
-        height: 1800
-    }
-}} />
+      
     </div>
   )
 }
