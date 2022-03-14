@@ -7,6 +7,7 @@ import FavoriteIcon from '@mui/icons-material/Favorite';
 import CheckIcon from '@mui/icons-material/Check';
 import { ToastContainer, toast } from 'react-toastify';
 import Link from 'next/link'
+import Rating from '../rating/Rating';
 // import products from '../../pages/api/product.json'
 
 const TrendingProduct = () => {
@@ -83,8 +84,11 @@ const TrendingProduct = () => {
                       <p className='text-lg font-semibold text-white line-through mr-auto text-center'> &#x20B9; {product.mrp}</p>
                     </div>
 
+                    <Rating value={product.rating} text={`${product.numreviews} reviews`} />
+                    
+
                     <div className='flex'>
-                      <Button className='m-auto mt-9 mb-2 border-white border-2 text-white rounded-3xl p-0 px-2 z-10' variant="outlined" onClick={notify}> Add to Cart &nbsp; <div className=' bg-white w-12 h-12 group-hover:animate-ping absolute m-auto flex rounded-full'></div><ShoppingCartCheckoutIcon className='text-white ml-auto flex' /></Button>
+                      <Button className='m-auto mt-6 mb-2 border-white border-2 text-white rounded-3xl p-0 px-2 z-10' variant="outlined" onClick={notify}> Add to Cart &nbsp; <div className=' bg-white w-12 h-12 group-hover:animate-ping absolute m-auto flex rounded-full'></div><ShoppingCartCheckoutIcon className='text-white ml-auto flex' /></Button>
                     </div>
 
                     <div className='flex'>
