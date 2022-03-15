@@ -3,10 +3,15 @@ import React, { useEffect, useState } from 'react'
 import axios from 'axios';
 import Rating from '../components/rating/Rating';
 import ReactImageZoom from 'react-image-zoom';
+import useTranslation from "next-translate/useTranslation";
+import { useRouter } from 'next/router'
+import Link from 'next/link';
 
 const ProductDetail = () => {
 const [isLoading, setLoading] = useState(true)
 const [item, setItem] = useState('')
+const {t} = useTranslation();
+const router = useRouter();
 
 const props = { height: 250, zoomWidth: 500,zoomLensStyle:'opacity: 0.7;background-color: green',zoomPosition:"right", img: "/images/strach.png", backgroundColor:"#fff"};
 
@@ -73,8 +78,20 @@ const props = { height: 250, zoomWidth: 500,zoomLensStyle:'opacity: 0.7;backgrou
                     <Typography gutterBottom variant="h4" component="div" className="text-gray-700 text-left font-sans mt-4 border-b border-gray-300">
                     Product Details
                     </Typography>
+                    {console.log(router)}
+                    <ul>
+          {router.locales.map((locale) => (
+            <li key={locale}>
+              <Link href={router.asPath} locale={locale}>
+                <a>{locale}</a>
+              </Link>
+            </li>
+          ))}
+        </ul>
+
                     <Typography gutterBottom variant="h5" component="div" className="text-gray-800 px-4 py-2 font-sans mt-4 text-justify ">
-                    {item.products[0].fulldescription}
+                    {/* {item.products[0].fulldescription} */}
+                    {t("ProductDetail:productdetail")}
                     </Typography>
 
                     

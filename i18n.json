@@ -1,0 +1,9 @@
+
+{ 
+    "locales" :["en-US", "hi-IN"],
+    "defaultLocale":"en-US",
+    "pages":{
+        "*":["common"],
+        "/ProductDetail":["ProductDetail"]
+    }
+}
