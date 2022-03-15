@@ -33,6 +33,7 @@ const props = { height: 250, zoomWidth: 500,zoomLensStyle:'opacity: 0.7;backgrou
 
 
   return (
+    
     <div>
       <Grid container item className='p-1'>
         <Grid lg={1} xl={1}>
