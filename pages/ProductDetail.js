@@ -13,7 +13,7 @@ const [item, setItem] = useState('')
 const {t} = useTranslation();
 const router = useRouter();
 
-const props = { height: 250, zoomWidth: 500,zoomLensStyle:'opacity: 0.7;background-color: green',zoomPosition:"right", img: "/images/strach.png", backgroundColor:"#fff"};
+const props = { height: 200, zoomWidth: 200,zoomLensStyle:'opacity: 0.7;background-color: green',zoomStyle:"background-color: white;'", zoomPosition:"right", img: "/images/strach.png" };
 
   useEffect(async () => {
     // let res = await axios.get('https://fakestoreapi.com/products')
@@ -45,7 +45,7 @@ const props = { height: 250, zoomWidth: 500,zoomLensStyle:'opacity: 0.7;backgrou
         </Grid>
 
         <Grid lg={3} xl={3}>
-        <ReactImageZoom {...props} style={{ backgroundColor:"#fff"}}/>
+        <ReactImageZoom {...props} style={{ backgroundColor:"#fff"}} className='flex m-auto'/>
         </Grid>
 
         <Grid lg={8} xl={8}>
