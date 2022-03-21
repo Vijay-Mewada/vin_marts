@@ -51,7 +51,7 @@ const props = { height: 300,offset :{ horizontal: 1}, zoomWidth: 500,zoomLensSty
         </Grid>
 
 
-        <Button className='bg-blue-975 text-white font-semibold taxt-lg p-5 m-2 hover:bg-blue-950'><ShoppingCartCheckoutOutlined />&nbsp; Add To Cart</Button>
+        <Link href='/Cart'><a><Button className='bg-blue-975 text-white font-semibold taxt-lg p-5 m-2 hover:bg-blue-950'><ShoppingCartCheckoutOutlined />&nbsp; Add To Cart</Button></a></Link>
         <Button className='bg-blue-975 text-white font-semibold taxt-lg p-5 m-2 hover:bg-blue-950'><ShoppingBag />&nbsp; Buy Now</Button>
         
 
