@@ -5,292 +5,846 @@
             "discount": "-25%",
             "description": " Antimicrobial Face Cleanser For All Types Of Skin ",
             "fulldescription": "Deltas Strechez Cream is a blend of herbal ingredients that averts and corrects marks naturally. Strechez cream hydrates softens nourishes rejuvenates the skin and supports in reducing the appearance of unsightly scars in a natural way. It diminishes discoloration visibly. Aloe vera helps heal rebuild and fade scars from surgeries like c sections weight loss and other. Helianthus annuus hydrates and adds suppleness to the skin.Triticum vulgare restores skin's natural texture and colour and minimizes formation of new scars. Composition: Aloe vera (Aloe leaf) 200% Piper longum (Long pepper fruit) 0.20 Lagenaria siceraria (Bottle gourd leaf) 1.00% Olea europaea (olive seed) 0.20% Cream Base: Helianthus annuus Glycine max Triticum vulgare Butyrospermum parkii Base materials with permitted preservatives q.s.Application Method for use: Use Skin Cleanser Milk before application of STRECHEZ Cream and apply sufficient STRECHEZ Cream in the direction of stretch lines with gentle circulatory and downward motion until completely absorbed by the skin. It is best to apply STRECHEZ Cream after you have had a shower or a bath when your skin is still slightly damp. For pregnancy: Pour some of the cream into your hand and then use your other hand to gently rub it into the skin of your bump and any areas that can be prone to stretch marks including your legs hips and back. Massage it gently on your bump in an upward to downward motion twice a day. Special instruction for usage: STRECHEZ Cream consists of natural extracts and essential oils useful for enhancing the circulation of skin and reducing the stretch mark. The increased blood flow provides a sensation of warmth and the application of STRECHEZ Cream creates mild to moderate redness with mild irritation; this enhances the absorption of natural ingredients in skin, the redness and mild irritation may remain for 1-2 hours and then subside on its own. In case if irritation persists for a longer time you may stop the application since you have sensitivity for cream.",
-        "quantity": "(100 gm)",
-            "image": "/images/cleanser.webp",
+            "quantity": "(100 gm)",
+            "coverimage": "/images/cleanser.webp",
             "mrp": "250",
             "price": "109.25",
             "rating": 4.5,
             "numreviews": 12,
             "category": "face & beauty care",
-            "Abouttheproduct":[
-                {"productpoint":"Presentation : 100ml(SET OF 2)"},
-                {"productpoint":"Treatment : Pimples and skin eruptions, healing infection while keeping the skin soft and smooth"},
-                {"productpoint":"Dosage : Wash face 2-3 times a day with a mild soap. After washing apply a small quantity of cream on face and rub softly in circular motion"},
-                {"productpoint":"Face cleanser for oily & dry skin, enhanced phytoceutics, acne -stress control"},
-                {"productpoint":"Cleans the skin,retains moisture and make skin radiant & beautiful"}
-                ]
+            "productallimages": [
+                {
+                    "productimage": "/images/aloverajuice.webp"
+                },
+                {
+                    "productimage": "/images/cleanser.webp"
+                },
+                {
+                    "productimage": "/images/facewash.webp"
+                },
+                {
+                    "productimage": "/images/strach.png"
+                },
+                {
+                    "productimage": "/images/spot.png"
+                }
+            ],
+            "Abouttheproduct": [
+                {
+                    "productpoint": "Presentation : 100ml(SET OF 2)"
+                },
+                {
+                    "productpoint": "Treatment : Pimples and skin eruptions, healing infection while keeping the skin soft and smooth"
+                },
+                {
+                    "productpoint": "Dosage : Wash face 2-3 times a day with a mild soap. After washing apply a small quantity of cream on face and rub softly in circular motion"
+                },
+                {
+                    "productpoint": "Face cleanser for oily & dry skin, enhanced phytoceutics, acne -stress control"
+                },
+                {
+                    "productpoint": "Cleans the skin,retains moisture and make skin radiant & beautiful"
+                }
+            ]
         },
         {
             "title": "Neem Face Cleaner",
             "discount": "-25%",
             "description": " Antimicrobial Face Cleanser For All Types Of Skin ",
             "fulldescription": "Deltas Strechez Cream is a blend of herbal ingredients that averts and corrects marks naturally. Strechez cream hydrates softens nourishes rejuvenates the skin and supports in reducing the appearance of unsightly scars in a natural way. It diminishes discoloration visibly. Aloe vera helps heal rebuild and fade scars from surgeries like c sections weight loss and other. Helianthus annuus hydrates and adds suppleness to the skin.Triticum vulgare restores skin's natural texture and colour and minimizes formation of new scars. Composition: Aloe vera (Aloe leaf) 200% Piper longum (Long pepper fruit) 0.20 Lagenaria siceraria (Bottle gourd leaf) 1.00% Olea europaea (olive seed) 0.20% Cream Base: Helianthus annuus Glycine max Triticum vulgare Butyrospermum parkii Base materials with permitted preservatives q.s.Application Method for use: Use Skin Cleanser Milk before application of STRECHEZ Cream and apply sufficient STRECHEZ Cream in the direction of stretch lines with gentle circulatory and downward motion until completely absorbed by the skin. It is best to apply STRECHEZ Cream after you have had a shower or a bath when your skin is still slightly damp. For pregnancy: Pour some of the cream into your hand and then use your other hand to gently rub it into the skin of your bump and any areas that can be prone to stretch marks including your legs hips and back. Massage it gently on your bump in an upward to downward motion twice a day. Special instruction for usage: STRECHEZ Cream consists of natural extracts and essential oils useful for enhancing the circulation of skin and reducing the stretch mark. The increased blood flow provides a sensation of warmth and the application of STRECHEZ Cream creates mild to moderate redness with mild irritation; this enhances the absorption of natural ingredients in skin, the redness and mild irritation may remain for 1-2 hours and then subside on its own. In case if irritation persists for a longer time you may stop the application since you have sensitivity for cream.",
-        "quantity": "(100 gm)",
-            "image": "/images/spot.png",
+            "quantity": "(100 gm)",
+            "coverimage": "/images/spot.png",
             "mrp": "250",
             "price": "109.25",
             "rating": 3.5,
             "numreviews": 12,
             "category": "face & beauty care",
-            "About the product":{
-
-            }
+            "productallimages": [
+                {
+                    "productimage": "/images/aloverajuice.webp"
+                },
+                {
+                    "productimage": "/images/cleanser.webp"
+                },
+                {
+                    "productimage": "/images/facewash.webp"
+                },
+                {
+                    "productimage": "/images/strach.png"
+                },
+                {
+                    "productimage": "/images/spot.png"
+                }
+            ],
+            "Abouttheproduct": [
+                {
+                    "productpoint": "Presentation : 100ml(SET OF 2)"
+                },
+                {
+                    "productpoint": "Treatment : Pimples and skin eruptions, healing infection while keeping the skin soft and smooth"
+                },
+                {
+                    "productpoint": "Dosage : Wash face 2-3 times a day with a mild soap. After washing apply a small quantity of cream on face and rub softly in circular motion"
+                },
+                {
+                    "productpoint": "Face cleanser for oily & dry skin, enhanced phytoceutics, acne -stress control"
+                },
+                {
+                    "productpoint": "Cleans the skin,retains moisture and make skin radiant & beautiful"
+                }
+            ]
         },
         {
             "title": "Berry Face Cleaner",
             "discount": "-20%",
             "description": " Antimicrobial Face Cleanser For All Types Of Skin ",
             "fulldescription": "Deltas Strechez Cream is a blend of herbal ingredients that averts and corrects marks naturally. Strechez cream hydrates softens nourishes rejuvenates the skin and supports in reducing the appearance of unsightly scars in a natural way. It diminishes discoloration visibly. Aloe vera helps heal rebuild and fade scars from surgeries like c sections weight loss and other. Helianthus annuus hydrates and adds suppleness to the skin.Triticum vulgare restores skin's natural texture and colour and minimizes formation of new scars. Composition: Aloe vera (Aloe leaf) 200% Piper longum (Long pepper fruit) 0.20 Lagenaria siceraria (Bottle gourd leaf) 1.00% Olea europaea (olive seed) 0.20% Cream Base: Helianthus annuus Glycine max Triticum vulgare Butyrospermum parkii Base materials with permitted preservatives q.s.Application Method for use: Use Skin Cleanser Milk before application of STRECHEZ Cream and apply sufficient STRECHEZ Cream in the direction of stretch lines with gentle circulatory and downward motion until completely absorbed by the skin. It is best to apply STRECHEZ Cream after you have had a shower or a bath when your skin is still slightly damp. For pregnancy: Pour some of the cream into your hand and then use your other hand to gently rub it into the skin of your bump and any areas that can be prone to stretch marks including your legs hips and back. Massage it gently on your bump in an upward to downward motion twice a day. Special instruction for usage: STRECHEZ Cream consists of natural extracts and essential oils useful for enhancing the circulation of skin and reducing the stretch mark. The increased blood flow provides a sensation of warmth and the application of STRECHEZ Cream creates mild to moderate redness with mild irritation; this enhances the absorption of natural ingredients in skin, the redness and mild irritation may remain for 1-2 hours and then subside on its own. In case if irritation persists for a longer time you may stop the application since you have sensitivity for cream.",
-        "quantity": "(100 gm)",
-            "image": "/images/facewash.webp",
+            "quantity": "(100 gm)",
+            "coverimage": "/images/facewash.webp",
             "mrp": "250",
             "price": "109.25",
             "rating": 4.5,
             "numreviews": 12,
             "category": "face & beauty care",
-            "About the product":{
-
-            }
+            "productallimages": [
+                {
+                    "productimage": "/images/aloverajuice.webp"
+                },
+                {
+                    "productimage": "/images/cleanser.webp"
+                },
+                {
+                    "productimage": "/images/facewash.webp"
+                },
+                {
+                    "productimage": "/images/strach.png"
+                },
+                {
+                    "productimage": "/images/spot.png"
+                }
+            ],
+            "Abouttheproduct": [
+                {
+                    "productpoint": "Presentation : 100ml(SET OF 2)"
+                },
+                {
+                    "productpoint": "Treatment : Pimples and skin eruptions, healing infection while keeping the skin soft and smooth"
+                },
+                {
+                    "productpoint": "Dosage : Wash face 2-3 times a day with a mild soap. After washing apply a small quantity of cream on face and rub softly in circular motion"
+                },
+                {
+                    "productpoint": "Face cleanser for oily & dry skin, enhanced phytoceutics, acne -stress control"
+                },
+                {
+                    "productpoint": "Cleans the skin,retains moisture and make skin radiant & beautiful"
+                }
+            ]
         },
         {
             "title": "Neem Face Cleaner",
             "discount": "-25%",
             "description": " Antimicrobial Face Cleanser For All Types Of Skin ",
             "fulldescription": "Deltas Strechez Cream is a blend of herbal ingredients that averts and corrects marks naturally. Strechez cream hydrates softens nourishes rejuvenates the skin and supports in reducing the appearance of unsightly scars in a natural way. It diminishes discoloration visibly. Aloe vera helps heal rebuild and fade scars from surgeries like c sections weight loss and other. Helianthus annuus hydrates and adds suppleness to the skin.Triticum vulgare restores skin's natural texture and colour and minimizes formation of new scars. Composition: Aloe vera (Aloe leaf) 200% Piper longum (Long pepper fruit) 0.20 Lagenaria siceraria (Bottle gourd leaf) 1.00% Olea europaea (olive seed) 0.20% Cream Base: Helianthus annuus Glycine max Triticum vulgare Butyrospermum parkii Base materials with permitted preservatives q.s.Application Method for use: Use Skin Cleanser Milk before application of STRECHEZ Cream and apply sufficient STRECHEZ Cream in the direction of stretch lines with gentle circulatory and downward motion until completely absorbed by the skin. It is best to apply STRECHEZ Cream after you have had a shower or a bath when your skin is still slightly damp. For pregnancy: Pour some of the cream into your hand and then use your other hand to gently rub it into the skin of your bump and any areas that can be prone to stretch marks including your legs hips and back. Massage it gently on your bump in an upward to downward motion twice a day. Special instruction for usage: STRECHEZ Cream consists of natural extracts and essential oils useful for enhancing the circulation of skin and reducing the stretch mark. The increased blood flow provides a sensation of warmth and the application of STRECHEZ Cream creates mild to moderate redness with mild irritation; this enhances the absorption of natural ingredients in skin, the redness and mild irritation may remain for 1-2 hours and then subside on its own. In case if irritation persists for a longer time you may stop the application since you have sensitivity for cream.",
-        "quantity": "(100 gm)",
-            "image": "/images/cleanser.webp",
+            "quantity": "(100 gm)",
+            "coverimage": "/images/cleanser.webp",
             "mrp": "250",
             "price": "109.25",
             "rating": 5,
             "numreviews": 12,
             "category": "face & beauty care",
-            "About the product":{
-
-            }
+            "productallimages": [
+                {
+                    "productimage": "/images/aloverajuice.webp"
+                },
+                {
+                    "productimage": "/images/cleanser.webp"
+                },
+                {
+                    "productimage": "/images/facewash.webp"
+                },
+                {
+                    "productimage": "/images/strach.png"
+                },
+                {
+                    "productimage": "/images/spot.png"
+                }
+            ],
+            "Abouttheproduct": [
+                {
+                    "productpoint": "Presentation : 100ml(SET OF 2)"
+                },
+                {
+                    "productpoint": "Treatment : Pimples and skin eruptions, healing infection while keeping the skin soft and smooth"
+                },
+                {
+                    "productpoint": "Dosage : Wash face 2-3 times a day with a mild soap. After washing apply a small quantity of cream on face and rub softly in circular motion"
+                },
+                {
+                    "productpoint": "Face cleanser for oily & dry skin, enhanced phytoceutics, acne -stress control"
+                },
+                {
+                    "productpoint": "Cleans the skin,retains moisture and make skin radiant & beautiful"
+                }
+            ]
         },
         {
             "title": "Neem Face Cleaner",
             "discount": "-25%",
             "description": " Antimicrobial Face Cleanser For All Types Of Skin ",
             "fulldescription": "Deltas Strechez Cream is a blend of herbal ingredients that averts and corrects marks naturally. Strechez cream hydrates softens nourishes rejuvenates the skin and supports in reducing the appearance of unsightly scars in a natural way. It diminishes discoloration visibly. Aloe vera helps heal rebuild and fade scars from surgeries like c sections weight loss and other. Helianthus annuus hydrates and adds suppleness to the skin.Triticum vulgare restores skin's natural texture and colour and minimizes formation of new scars. Composition: Aloe vera (Aloe leaf) 200% Piper longum (Long pepper fruit) 0.20 Lagenaria siceraria (Bottle gourd leaf) 1.00% Olea europaea (olive seed) 0.20% Cream Base: Helianthus annuus Glycine max Triticum vulgare Butyrospermum parkii Base materials with permitted preservatives q.s.Application Method for use: Use Skin Cleanser Milk before application of STRECHEZ Cream and apply sufficient STRECHEZ Cream in the direction of stretch lines with gentle circulatory and downward motion until completely absorbed by the skin. It is best to apply STRECHEZ Cream after you have had a shower or a bath when your skin is still slightly damp. For pregnancy: Pour some of the cream into your hand and then use your other hand to gently rub it into the skin of your bump and any areas that can be prone to stretch marks including your legs hips and back. Massage it gently on your bump in an upward to downward motion twice a day. Special instruction for usage: STRECHEZ Cream consists of natural extracts and essential oils useful for enhancing the circulation of skin and reducing the stretch mark. The increased blood flow provides a sensation of warmth and the application of STRECHEZ Cream creates mild to moderate redness with mild irritation; this enhances the absorption of natural ingredients in skin, the redness and mild irritation may remain for 1-2 hours and then subside on its own. In case if irritation persists for a longer time you may stop the application since you have sensitivity for cream.",
-        "quantity": "(100 gm)",
-            "image": "/images/spot.png",
+            "quantity": "(100 gm)",
+            "coverimage": "/images/spot.png",
             "mrp": "250",
             "price": "109.25",
             "rating": 3,
             "numreviews": 12,
             "category": "face & beauty care",
-            "About the product":{
-
-            }
+            "productallimages": [
+                {
+                    "productimage": "/images/aloverajuice.webp"
+                },
+                {
+                    "productimage": "/images/cleanser.webp"
+                },
+                {
+                    "productimage": "/images/facewash.webp"
+                },
+                {
+                    "productimage": "/images/strach.png"
+                },
+                {
+                    "productimage": "/images/spot.png"
+                }
+            ],
+            "Abouttheproduct": [
+                {
+                    "productpoint": "Presentation : 100ml(SET OF 2)"
+                },
+                {
+                    "productpoint": "Treatment : Pimples and skin eruptions, healing infection while keeping the skin soft and smooth"
+                },
+                {
+                    "productpoint": "Dosage : Wash face 2-3 times a day with a mild soap. After washing apply a small quantity of cream on face and rub softly in circular motion"
+                },
+                {
+                    "productpoint": "Face cleanser for oily & dry skin, enhanced phytoceutics, acne -stress control"
+                },
+                {
+                    "productpoint": "Cleans the skin,retains moisture and make skin radiant & beautiful"
+                }
+            ]
         },
         {
             "title": "Berry Face Cleaner",
             "discount": "-20%",
             "description": " Antimicrobial Face Cleanser For All Types Of Skin ",
             "fulldescription": "Deltas Strechez Cream is a blend of herbal ingredients that averts and corrects marks naturally. Strechez cream hydrates softens nourishes rejuvenates the skin and supports in reducing the appearance of unsightly scars in a natural way. It diminishes discoloration visibly. Aloe vera helps heal rebuild and fade scars from surgeries like c sections weight loss and other. Helianthus annuus hydrates and adds suppleness to the skin.Triticum vulgare restores skin's natural texture and colour and minimizes formation of new scars. Composition: Aloe vera (Aloe leaf) 200% Piper longum (Long pepper fruit) 0.20 Lagenaria siceraria (Bottle gourd leaf) 1.00% Olea europaea (olive seed) 0.20% Cream Base: Helianthus annuus Glycine max Triticum vulgare Butyrospermum parkii Base materials with permitted preservatives q.s.Application Method for use: Use Skin Cleanser Milk before application of STRECHEZ Cream and apply sufficient STRECHEZ Cream in the direction of stretch lines with gentle circulatory and downward motion until completely absorbed by the skin. It is best to apply STRECHEZ Cream after you have had a shower or a bath when your skin is still slightly damp. For pregnancy: Pour some of the cream into your hand and then use your other hand to gently rub it into the skin of your bump and any areas that can be prone to stretch marks including your legs hips and back. Massage it gently on your bump in an upward to downward motion twice a day. Special instruction for usage: STRECHEZ Cream consists of natural extracts and essential oils useful for enhancing the circulation of skin and reducing the stretch mark. The increased blood flow provides a sensation of warmth and the application of STRECHEZ Cream creates mild to moderate redness with mild irritation; this enhances the absorption of natural ingredients in skin, the redness and mild irritation may remain for 1-2 hours and then subside on its own. In case if irritation persists for a longer time you may stop the application since you have sensitivity for cream.",
-        "quantity": "(100 gm)",
-            "image": "/images/facewash.webp",
+            "quantity": "(100 gm)",
+            "coverimage": "/images/facewash.webp",
             "mrp": "250",
             "price": "109.25",
             "rating": 4,
             "numreviews": 12,
             "category": "face & beauty care",
-            "About the product":{
-
-            }
+            "productallimages": [
+                {
+                    "productimage": "/images/aloverajuice.webp"
+                },
+                {
+                    "productimage": "/images/cleanser.webp"
+                },
+                {
+                    "productimage": "/images/facewash.webp"
+                },
+                {
+                    "productimage": "/images/strach.png"
+                },
+                {
+                    "productimage": "/images/spot.png"
+                }
+            ],
+            "Abouttheproduct": [
+                {
+                    "productpoint": "Presentation : 100ml(SET OF 2)"
+                },
+                {
+                    "productpoint": "Treatment : Pimples and skin eruptions, healing infection while keeping the skin soft and smooth"
+                },
+                {
+                    "productpoint": "Dosage : Wash face 2-3 times a day with a mild soap. After washing apply a small quantity of cream on face and rub softly in circular motion"
+                },
+                {
+                    "productpoint": "Face cleanser for oily & dry skin, enhanced phytoceutics, acne -stress control"
+                },
+                {
+                    "productpoint": "Cleans the skin,retains moisture and make skin radiant & beautiful"
+                }
+            ]
         },
         {
             "title": "Neem Face Cleaner",
             "discount": "-25%",
             "description": " Antimicrobial Face Cleanser For All Types Of Skin ",
             "fulldescription": "Deltas Strechez Cream is a blend of herbal ingredients that averts and corrects marks naturally. Strechez cream hydrates softens nourishes rejuvenates the skin and supports in reducing the appearance of unsightly scars in a natural way. It diminishes discoloration visibly. Aloe vera helps heal rebuild and fade scars from surgeries like c sections weight loss and other. Helianthus annuus hydrates and adds suppleness to the skin.Triticum vulgare restores skin's natural texture and colour and minimizes formation of new scars. Composition: Aloe vera (Aloe leaf) 200% Piper longum (Long pepper fruit) 0.20 Lagenaria siceraria (Bottle gourd leaf) 1.00% Olea europaea (olive seed) 0.20% Cream Base: Helianthus annuus Glycine max Triticum vulgare Butyrospermum parkii Base materials with permitted preservatives q.s.Application Method for use: Use Skin Cleanser Milk before application of STRECHEZ Cream and apply sufficient STRECHEZ Cream in the direction of stretch lines with gentle circulatory and downward motion until completely absorbed by the skin. It is best to apply STRECHEZ Cream after you have had a shower or a bath when your skin is still slightly damp. For pregnancy: Pour some of the cream into your hand and then use your other hand to gently rub it into the skin of your bump and any areas that can be prone to stretch marks including your legs hips and back. Massage it gently on your bump in an upward to downward motion twice a day. Special instruction for usage: STRECHEZ Cream consists of natural extracts and essential oils useful for enhancing the circulation of skin and reducing the stretch mark. The increased blood flow provides a sensation of warmth and the application of STRECHEZ Cream creates mild to moderate redness with mild irritation; this enhances the absorption of natural ingredients in skin, the redness and mild irritation may remain for 1-2 hours and then subside on its own. In case if irritation persists for a longer time you may stop the application since you have sensitivity for cream.",
-        "quantity": "(100 gm)",
-            "image": "/images/cleanser.webp",
+            "quantity": "(100 gm)",
+            "coverimage": "/images/cleanser.webp",
             "mrp": "250",
             "price": "109.25",
             "rating": 3.5,
             "numreviews": 12,
             "category": "face & beauty care",
-            "About the product":{
-
-            }
+            "productallimages": [
+                {
+                    "productimage": "/images/aloverajuice.webp"
+                },
+                {
+                    "productimage": "/images/cleanser.webp"
+                },
+                {
+                    "productimage": "/images/facewash.webp"
+                },
+                {
+                    "productimage": "/images/strach.png"
+                },
+                {
+                    "productimage": "/images/spot.png"
+                }
+            ],
+            "Abouttheproduct": [
+                {
+                    "productpoint": "Presentation : 100ml(SET OF 2)"
+                },
+                {
+                    "productpoint": "Treatment : Pimples and skin eruptions, healing infection while keeping the skin soft and smooth"
+                },
+                {
+                    "productpoint": "Dosage : Wash face 2-3 times a day with a mild soap. After washing apply a small quantity of cream on face and rub softly in circular motion"
+                },
+                {
+                    "productpoint": "Face cleanser for oily & dry skin, enhanced phytoceutics, acne -stress control"
+                },
+                {
+                    "productpoint": "Cleans the skin,retains moisture and make skin radiant & beautiful"
+                }
+            ]
         },
         {
             "title": "Neem Face Cleaner",
             "discount": "-25%",
             "description": " Antimicrobial Face Cleanser For All Types Of Skin ",
             "fulldescription": "Deltas Strechez Cream is a blend of herbal ingredients that averts and corrects marks naturally. Strechez cream hydrates softens nourishes rejuvenates the skin and supports in reducing the appearance of unsightly scars in a natural way. It diminishes discoloration visibly. Aloe vera helps heal rebuild and fade scars from surgeries like c sections weight loss and other. Helianthus annuus hydrates and adds suppleness to the skin.Triticum vulgare restores skin's natural texture and colour and minimizes formation of new scars. Composition: Aloe vera (Aloe leaf) 200% Piper longum (Long pepper fruit) 0.20 Lagenaria siceraria (Bottle gourd leaf) 1.00% Olea europaea (olive seed) 0.20% Cream Base: Helianthus annuus Glycine max Triticum vulgare Butyrospermum parkii Base materials with permitted preservatives q.s.Application Method for use: Use Skin Cleanser Milk before application of STRECHEZ Cream and apply sufficient STRECHEZ Cream in the direction of stretch lines with gentle circulatory and downward motion until completely absorbed by the skin. It is best to apply STRECHEZ Cream after you have had a shower or a bath when your skin is still slightly damp. For pregnancy: Pour some of the cream into your hand and then use your other hand to gently rub it into the skin of your bump and any areas that can be prone to stretch marks including your legs hips and back. Massage it gently on your bump in an upward to downward motion twice a day. Special instruction for usage: STRECHEZ Cream consists of natural extracts and essential oils useful for enhancing the circulation of skin and reducing the stretch mark. The increased blood flow provides a sensation of warmth and the application of STRECHEZ Cream creates mild to moderate redness with mild irritation; this enhances the absorption of natural ingredients in skin, the redness and mild irritation may remain for 1-2 hours and then subside on its own. In case if irritation persists for a longer time you may stop the application since you have sensitivity for cream.",
-        "quantity": "(100 gm)",
-            "image": "/images/spot.png",
+            "quantity": "(100 gm)",
+            "coverimage": "/images/spot.png",
             "mrp": "250",
             "price": "109.25",
             "rating": 4.5,
             "numreviews": 12,
             "category": "face & beauty care",
-            "About the product":{
-
-            }
+            "productallimages": [
+                {
+                    "productimage": "/images/aloverajuice.webp"
+                },
+                {
+                    "productimage": "/images/cleanser.webp"
+                },
+                {
+                    "productimage": "/images/facewash.webp"
+                },
+                {
+                    "productimage": "/images/strach.png"
+                },
+                {
+                    "productimage": "/images/spot.png"
+                }
+            ],
+            "Abouttheproduct": [
+                {
+                    "productpoint": "Presentation : 100ml(SET OF 2)"
+                },
+                {
+                    "productpoint": "Treatment : Pimples and skin eruptions, healing infection while keeping the skin soft and smooth"
+                },
+                {
+                    "productpoint": "Dosage : Wash face 2-3 times a day with a mild soap. After washing apply a small quantity of cream on face and rub softly in circular motion"
+                },
+                {
+                    "productpoint": "Face cleanser for oily & dry skin, enhanced phytoceutics, acne -stress control"
+                },
+                {
+                    "productpoint": "Cleans the skin,retains moisture and make skin radiant & beautiful"
+                }
+            ]
         },
         {
             "title": "Berry Face Cleaner",
             "discount": "-20%",
             "description": " Antimicrobial Face Cleanser For All Types Of Skin ",
             "fulldescription": "Deltas Strechez Cream is a blend of herbal ingredients that averts and corrects marks naturally. Strechez cream hydrates softens nourishes rejuvenates the skin and supports in reducing the appearance of unsightly scars in a natural way. It diminishes discoloration visibly. Aloe vera helps heal rebuild and fade scars from surgeries like c sections weight loss and other. Helianthus annuus hydrates and adds suppleness to the skin.Triticum vulgare restores skin's natural texture and colour and minimizes formation of new scars. Composition: Aloe vera (Aloe leaf) 200% Piper longum (Long pepper fruit) 0.20 Lagenaria siceraria (Bottle gourd leaf) 1.00% Olea europaea (olive seed) 0.20% Cream Base: Helianthus annuus Glycine max Triticum vulgare Butyrospermum parkii Base materials with permitted preservatives q.s.Application Method for use: Use Skin Cleanser Milk before application of STRECHEZ Cream and apply sufficient STRECHEZ Cream in the direction of stretch lines with gentle circulatory and downward motion until completely absorbed by the skin. It is best to apply STRECHEZ Cream after you have had a shower or a bath when your skin is still slightly damp. For pregnancy: Pour some of the cream into your hand and then use your other hand to gently rub it into the skin of your bump and any areas that can be prone to stretch marks including your legs hips and back. Massage it gently on your bump in an upward to downward motion twice a day. Special instruction for usage: STRECHEZ Cream consists of natural extracts and essential oils useful for enhancing the circulation of skin and reducing the stretch mark. The increased blood flow provides a sensation of warmth and the application of STRECHEZ Cream creates mild to moderate redness with mild irritation; this enhances the absorption of natural ingredients in skin, the redness and mild irritation may remain for 1-2 hours and then subside on its own. In case if irritation persists for a longer time you may stop the application since you have sensitivity for cream.",
-        "quantity": "(100 gm)",
-            "image": "/images/facewash.webp",
+            "quantity": "(100 gm)",
+            "coverimage": "/images/facewash.webp",
             "mrp": "250",
             "price": "109.25",
             "rating": 4.5,
             "numreviews": 12,
             "category": "face & beauty care",
-            "About the product":{
-
-            }
+            "productallimages": [
+                {
+                    "productimage": "/images/aloverajuice.webp"
+                },
+                {
+                    "productimage": "/images/cleanser.webp"
+                },
+                {
+                    "productimage": "/images/facewash.webp"
+                },
+                {
+                    "productimage": "/images/strach.png"
+                },
+                {
+                    "productimage": "/images/spot.png"
+                }
+            ],
+            "Abouttheproduct": [
+                {
+                    "productpoint": "Presentation : 100ml(SET OF 2)"
+                },
+                {
+                    "productpoint": "Treatment : Pimples and skin eruptions, healing infection while keeping the skin soft and smooth"
+                },
+                {
+                    "productpoint": "Dosage : Wash face 2-3 times a day with a mild soap. After washing apply a small quantity of cream on face and rub softly in circular motion"
+                },
+                {
+                    "productpoint": "Face cleanser for oily & dry skin, enhanced phytoceutics, acne -stress control"
+                },
+                {
+                    "productpoint": "Cleans the skin,retains moisture and make skin radiant & beautiful"
+                }
+            ]
         },
         {
             "title": "Neem Face Cleaner",
             "discount": "-25%",
             "description": " Antimicrobial Face Cleanser For All Types Of Skin ",
             "fulldescription": "Deltas Strechez Cream is a blend of herbal ingredients that averts and corrects marks naturally. Strechez cream hydrates softens nourishes rejuvenates the skin and supports in reducing the appearance of unsightly scars in a natural way. It diminishes discoloration visibly. Aloe vera helps heal rebuild and fade scars from surgeries like c sections weight loss and other. Helianthus annuus hydrates and adds suppleness to the skin.Triticum vulgare restores skin's natural texture and colour and minimizes formation of new scars. Composition: Aloe vera (Aloe leaf) 200% Piper longum (Long pepper fruit) 0.20 Lagenaria siceraria (Bottle gourd leaf) 1.00% Olea europaea (olive seed) 0.20% Cream Base: Helianthus annuus Glycine max Triticum vulgare Butyrospermum parkii Base materials with permitted preservatives q.s.Application Method for use: Use Skin Cleanser Milk before application of STRECHEZ Cream and apply sufficient STRECHEZ Cream in the direction of stretch lines with gentle circulatory and downward motion until completely absorbed by the skin. It is best to apply STRECHEZ Cream after you have had a shower or a bath when your skin is still slightly damp. For pregnancy: Pour some of the cream into your hand and then use your other hand to gently rub it into the skin of your bump and any areas that can be prone to stretch marks including your legs hips and back. Massage it gently on your bump in an upward to downward motion twice a day. Special instruction for usage: STRECHEZ Cream consists of natural extracts and essential oils useful for enhancing the circulation of skin and reducing the stretch mark. The increased blood flow provides a sensation of warmth and the application of STRECHEZ Cream creates mild to moderate redness with mild irritation; this enhances the absorption of natural ingredients in skin, the redness and mild irritation may remain for 1-2 hours and then subside on its own. In case if irritation persists for a longer time you may stop the application since you have sensitivity for cream.",
-        "quantity": "(100 gm)",
-            "image": "/images/cleanser.webp",
+            "quantity": "(100 gm)",
+            "coverimage": "/images/cleanser.webp",
             "mrp": "250",
             "price": "109.25",
             "rating": 4.5,
             "numreviews": 12,
             "category": "face & beauty care",
-            "About the product":{
-
-            }
+            "productallimages": [
+                {
+                    "productimage": "/images/aloverajuice.webp"
+                },
+                {
+                    "productimage": "/images/cleanser.webp"
+                },
+                {
+                    "productimage": "/images/facewash.webp"
+                },
+                {
+                    "productimage": "/images/strach.png"
+                },
+                {
+                    "productimage": "/images/spot.png"
+                }
+            ],
+            "Abouttheproduct": [
+                {
+                    "productpoint": "Presentation : 100ml(SET OF 2)"
+                },
+                {
+                    "productpoint": "Treatment : Pimples and skin eruptions, healing infection while keeping the skin soft and smooth"
+                },
+                {
+                    "productpoint": "Dosage : Wash face 2-3 times a day with a mild soap. After washing apply a small quantity of cream on face and rub softly in circular motion"
+                },
+                {
+                    "productpoint": "Face cleanser for oily & dry skin, enhanced phytoceutics, acne -stress control"
+                },
+                {
+                    "productpoint": "Cleans the skin,retains moisture and make skin radiant & beautiful"
+                }
+            ]
         },
         {
             "title": "Neem Face Cleaner",
             "discount": "-25%",
             "description": " Antimicrobial Face Cleanser For All Types Of Skin ",
             "fulldescription": "Deltas Strechez Cream is a blend of herbal ingredients that averts and corrects marks naturally. Strechez cream hydrates softens nourishes rejuvenates the skin and supports in reducing the appearance of unsightly scars in a natural way. It diminishes discoloration visibly. Aloe vera helps heal rebuild and fade scars from surgeries like c sections weight loss and other. Helianthus annuus hydrates and adds suppleness to the skin.Triticum vulgare restores skin's natural texture and colour and minimizes formation of new scars. Composition: Aloe vera (Aloe leaf) 200% Piper longum (Long pepper fruit) 0.20 Lagenaria siceraria (Bottle gourd leaf) 1.00% Olea europaea (olive seed) 0.20% Cream Base: Helianthus annuus Glycine max Triticum vulgare Butyrospermum parkii Base materials with permitted preservatives q.s.Application Method for use: Use Skin Cleanser Milk before application of STRECHEZ Cream and apply sufficient STRECHEZ Cream in the direction of stretch lines with gentle circulatory and downward motion until completely absorbed by the skin. It is best to apply STRECHEZ Cream after you have had a shower or a bath when your skin is still slightly damp. For pregnancy: Pour some of the cream into your hand and then use your other hand to gently rub it into the skin of your bump and any areas that can be prone to stretch marks including your legs hips and back. Massage it gently on your bump in an upward to downward motion twice a day. Special instruction for usage: STRECHEZ Cream consists of natural extracts and essential oils useful for enhancing the circulation of skin and reducing the stretch mark. The increased blood flow provides a sensation of warmth and the application of STRECHEZ Cream creates mild to moderate redness with mild irritation; this enhances the absorption of natural ingredients in skin, the redness and mild irritation may remain for 1-2 hours and then subside on its own. In case if irritation persists for a longer time you may stop the application since you have sensitivity for cream.",
-        "quantity": "(100 gm)",
-            "image": "/images/spot.png",
+            "quantity": "(100 gm)",
+            "coverimage": "/images/spot.png",
             "mrp": "250",
             "price": "109.25",
             "rating": 4.5,
             "numreviews": 12,
             "category": "face & beauty care",
-            "About the product":{
-
-            }
+            "productallimages": [
+                {
+                    "productimage": "/images/aloverajuice.webp"
+                },
+                {
+                    "productimage": "/images/cleanser.webp"
+                },
+                {
+                    "productimage": "/images/facewash.webp"
+                },
+                {
+                    "productimage": "/images/strach.png"
+                },
+                {
+                    "productimage": "/images/spot.png"
+                }
+            ],
+            "Abouttheproduct": [
+                {
+                    "productpoint": "Presentation : 100ml(SET OF 2)"
+                },
+                {
+                    "productpoint": "Treatment : Pimples and skin eruptions, healing infection while keeping the skin soft and smooth"
+                },
+                {
+                    "productpoint": "Dosage : Wash face 2-3 times a day with a mild soap. After washing apply a small quantity of cream on face and rub softly in circular motion"
+                },
+                {
+                    "productpoint": "Face cleanser for oily & dry skin, enhanced phytoceutics, acne -stress control"
+                },
+                {
+                    "productpoint": "Cleans the skin,retains moisture and make skin radiant & beautiful"
+                }
+            ]
         },
         {
             "title": "Berry Face Cleaner",
             "discount": "-20%",
             "description": " Antimicrobial Face Cleanser For All Types Of Skin ",
             "fulldescription": "Deltas Strechez Cream is a blend of herbal ingredients that averts and corrects marks naturally. Strechez cream hydrates softens nourishes rejuvenates the skin and supports in reducing the appearance of unsightly scars in a natural way. It diminishes discoloration visibly. Aloe vera helps heal rebuild and fade scars from surgeries like c sections weight loss and other. Helianthus annuus hydrates and adds suppleness to the skin.Triticum vulgare restores skin's natural texture and colour and minimizes formation of new scars. Composition: Aloe vera (Aloe leaf) 200% Piper longum (Long pepper fruit) 0.20 Lagenaria siceraria (Bottle gourd leaf) 1.00% Olea europaea (olive seed) 0.20% Cream Base: Helianthus annuus Glycine max Triticum vulgare Butyrospermum parkii Base materials with permitted preservatives q.s.Application Method for use: Use Skin Cleanser Milk before application of STRECHEZ Cream and apply sufficient STRECHEZ Cream in the direction of stretch lines with gentle circulatory and downward motion until completely absorbed by the skin. It is best to apply STRECHEZ Cream after you have had a shower or a bath when your skin is still slightly damp. For pregnancy: Pour some of the cream into your hand and then use your other hand to gently rub it into the skin of your bump and any areas that can be prone to stretch marks including your legs hips and back. Massage it gently on your bump in an upward to downward motion twice a day. Special instruction for usage: STRECHEZ Cream consists of natural extracts and essential oils useful for enhancing the circulation of skin and reducing the stretch mark. The increased blood flow provides a sensation of warmth and the application of STRECHEZ Cream creates mild to moderate redness with mild irritation; this enhances the absorption of natural ingredients in skin, the redness and mild irritation may remain for 1-2 hours and then subside on its own. In case if irritation persists for a longer time you may stop the application since you have sensitivity for cream.",
-        "quantity": "(100 gm)",
-            "image": "/images/facewash.webp",
+            "quantity": "(100 gm)",
+            "coverimage": "/images/facewash.webp",
             "mrp": "250",
             "price": "109.25",
             "rating": 4.5,
             "numreviews": 12,
             "category": "face & beauty care",
-            "About the product":{
-
-            }
+            "productallimages": [
+                {
+                    "productimage": "/images/aloverajuice.webp"
+                },
+                {
+                    "productimage": "/images/cleanser.webp"
+                },
+                {
+                    "productimage": "/images/facewash.webp"
+                },
+                {
+                    "productimage": "/images/strach.png"
+                },
+                {
+                    "productimage": "/images/spot.png"
+                }
+            ],
+            "Abouttheproduct": [
+                {
+                    "productpoint": "Presentation : 100ml(SET OF 2)"
+                },
+                {
+                    "productpoint": "Treatment : Pimples and skin eruptions, healing infection while keeping the skin soft and smooth"
+                },
+                {
+                    "productpoint": "Dosage : Wash face 2-3 times a day with a mild soap. After washing apply a small quantity of cream on face and rub softly in circular motion"
+                },
+                {
+                    "productpoint": "Face cleanser for oily & dry skin, enhanced phytoceutics, acne -stress control"
+                },
+                {
+                    "productpoint": "Cleans the skin,retains moisture and make skin radiant & beautiful"
+                }
+            ]
         },
         {
             "title": "Neem Face Cleaner",
             "discount": "-25%",
             "description": " Antimicrobial Face Cleanser For All Types Of Skin ",
             "fulldescription": "Deltas Strechez Cream is a blend of herbal ingredients that averts and corrects marks naturally. Strechez cream hydrates softens nourishes rejuvenates the skin and supports in reducing the appearance of unsightly scars in a natural way. It diminishes discoloration visibly. Aloe vera helps heal rebuild and fade scars from surgeries like c sections weight loss and other. Helianthus annuus hydrates and adds suppleness to the skin.Triticum vulgare restores skin's natural texture and colour and minimizes formation of new scars. Composition: Aloe vera (Aloe leaf) 200% Piper longum (Long pepper fruit) 0.20 Lagenaria siceraria (Bottle gourd leaf) 1.00% Olea europaea (olive seed) 0.20% Cream Base: Helianthus annuus Glycine max Triticum vulgare Butyrospermum parkii Base materials with permitted preservatives q.s.Application Method for use: Use Skin Cleanser Milk before application of STRECHEZ Cream and apply sufficient STRECHEZ Cream in the direction of stretch lines with gentle circulatory and downward motion until completely absorbed by the skin. It is best to apply STRECHEZ Cream after you have had a shower or a bath when your skin is still slightly damp. For pregnancy: Pour some of the cream into your hand and then use your other hand to gently rub it into the skin of your bump and any areas that can be prone to stretch marks including your legs hips and back. Massage it gently on your bump in an upward to downward motion twice a day. Special instruction for usage: STRECHEZ Cream consists of natural extracts and essential oils useful for enhancing the circulation of skin and reducing the stretch mark. The increased blood flow provides a sensation of warmth and the application of STRECHEZ Cream creates mild to moderate redness with mild irritation; this enhances the absorption of natural ingredients in skin, the redness and mild irritation may remain for 1-2 hours and then subside on its own. In case if irritation persists for a longer time you may stop the application since you have sensitivity for cream.",
-        "quantity": "(100 gm)",
-            "image": "/images/cleanser.webp",
+            "quantity": "(100 gm)",
+            "coverimage": "/images/cleanser.webp",
             "mrp": "250",
             "price": "109.25",
             "rating": 4.5,
             "numreviews": 12,
             "category": "face & beauty care",
-            "About the product":{
-
-            }
+            "productallimages": [
+                {
+                    "productimage": "/images/aloverajuice.webp"
+                },
+                {
+                    "productimage": "/images/cleanser.webp"
+                },
+                {
+                    "productimage": "/images/facewash.webp"
+                },
+                {
+                    "productimage": "/images/strach.png"
+                },
+                {
+                    "productimage": "/images/spot.png"
+                }
+            ],
+            "Abouttheproduct": [
+                {
+                    "productpoint": "Presentation : 100ml(SET OF 2)"
+                },
+                {
+                    "productpoint": "Treatment : Pimples and skin eruptions, healing infection while keeping the skin soft and smooth"
+                },
+                {
+                    "productpoint": "Dosage : Wash face 2-3 times a day with a mild soap. After washing apply a small quantity of cream on face and rub softly in circular motion"
+                },
+                {
+                    "productpoint": "Face cleanser for oily & dry skin, enhanced phytoceutics, acne -stress control"
+                },
+                {
+                    "productpoint": "Cleans the skin,retains moisture and make skin radiant & beautiful"
+                }
+            ]
         },
         {
             "title": "Neem Face Cleaner",
             "discount": "-25%",
             "description": " Antimicrobial Face Cleanser For All Types Of Skin ",
             "fulldescription": "Deltas Strechez Cream is a blend of herbal ingredients that averts and corrects marks naturally. Strechez cream hydrates softens nourishes rejuvenates the skin and supports in reducing the appearance of unsightly scars in a natural way. It diminishes discoloration visibly. Aloe vera helps heal rebuild and fade scars from surgeries like c sections weight loss and other. Helianthus annuus hydrates and adds suppleness to the skin.Triticum vulgare restores skin's natural texture and colour and minimizes formation of new scars. Composition: Aloe vera (Aloe leaf) 200% Piper longum (Long pepper fruit) 0.20 Lagenaria siceraria (Bottle gourd leaf) 1.00% Olea europaea (olive seed) 0.20% Cream Base: Helianthus annuus Glycine max Triticum vulgare Butyrospermum parkii Base materials with permitted preservatives q.s.Application Method for use: Use Skin Cleanser Milk before application of STRECHEZ Cream and apply sufficient STRECHEZ Cream in the direction of stretch lines with gentle circulatory and downward motion until completely absorbed by the skin. It is best to apply STRECHEZ Cream after you have had a shower or a bath when your skin is still slightly damp. For pregnancy: Pour some of the cream into your hand and then use your other hand to gently rub it into the skin of your bump and any areas that can be prone to stretch marks including your legs hips and back. Massage it gently on your bump in an upward to downward motion twice a day. Special instruction for usage: STRECHEZ Cream consists of natural extracts and essential oils useful for enhancing the circulation of skin and reducing the stretch mark. The increased blood flow provides a sensation of warmth and the application of STRECHEZ Cream creates mild to moderate redness with mild irritation; this enhances the absorption of natural ingredients in skin, the redness and mild irritation may remain for 1-2 hours and then subside on its own. In case if irritation persists for a longer time you may stop the application since you have sensitivity for cream.",
-        "quantity": "(100 gm)",
-            "image": "/images/spot.png",
+            "quantity": "(100 gm)",
+            "coverimage": "/images/spot.png",
             "mrp": "250",
             "price": "109.25",
             "rating": 4.5,
             "numreviews": 12,
             "category": "face & beauty care",
-            "About the product":{
-
-            }
+            "productallimages": [
+                {
+                    "productimage": "/images/aloverajuice.webp"
+                },
+                {
+                    "productimage": "/images/cleanser.webp"
+                },
+                {
+                    "productimage": "/images/facewash.webp"
+                },
+                {
+                    "productimage": "/images/strach.png"
+                },
+                {
+                    "productimage": "/images/spot.png"
+                }
+            ],
+            "Abouttheproduct": [
+                {
+                    "productpoint": "Presentation : 100ml(SET OF 2)"
+                },
+                {
+                    "productpoint": "Treatment : Pimples and skin eruptions, healing infection while keeping the skin soft and smooth"
+                },
+                {
+                    "productpoint": "Dosage : Wash face 2-3 times a day with a mild soap. After washing apply a small quantity of cream on face and rub softly in circular motion"
+                },
+                {
+                    "productpoint": "Face cleanser for oily & dry skin, enhanced phytoceutics, acne -stress control"
+                },
+                {
+                    "productpoint": "Cleans the skin,retains moisture and make skin radiant & beautiful"
+                }
+            ]
         },
         {
             "title": "Berry Face Cleaner",
             "discount": "-20%",
             "description": " Antimicrobial Face Cleanser For All Types Of Skin ",
             "fulldescription": "Deltas Strechez Cream is a blend of herbal ingredients that averts and corrects marks naturally. Strechez cream hydrates softens nourishes rejuvenates the skin and supports in reducing the appearance of unsightly scars in a natural way. It diminishes discoloration visibly. Aloe vera helps heal rebuild and fade scars from surgeries like c sections weight loss and other. Helianthus annuus hydrates and adds suppleness to the skin.Triticum vulgare restores skin's natural texture and colour and minimizes formation of new scars. Composition: Aloe vera (Aloe leaf) 200% Piper longum (Long pepper fruit) 0.20 Lagenaria siceraria (Bottle gourd leaf) 1.00% Olea europaea (olive seed) 0.20% Cream Base: Helianthus annuus Glycine max Triticum vulgare Butyrospermum parkii Base materials with permitted preservatives q.s.Application Method for use: Use Skin Cleanser Milk before application of STRECHEZ Cream and apply sufficient STRECHEZ Cream in the direction of stretch lines with gentle circulatory and downward motion until completely absorbed by the skin. It is best to apply STRECHEZ Cream after you have had a shower or a bath when your skin is still slightly damp. For pregnancy: Pour some of the cream into your hand and then use your other hand to gently rub it into the skin of your bump and any areas that can be prone to stretch marks including your legs hips and back. Massage it gently on your bump in an upward to downward motion twice a day. Special instruction for usage: STRECHEZ Cream consists of natural extracts and essential oils useful for enhancing the circulation of skin and reducing the stretch mark. The increased blood flow provides a sensation of warmth and the application of STRECHEZ Cream creates mild to moderate redness with mild irritation; this enhances the absorption of natural ingredients in skin, the redness and mild irritation may remain for 1-2 hours and then subside on its own. In case if irritation persists for a longer time you may stop the application since you have sensitivity for cream.",
-        "quantity": "(100 gm)",
-            "image": "/images/facewash.webp",
+            "quantity": "(100 gm)",
+            "coverimage": "/images/facewash.webp",
             "mrp": "250",
             "price": "109.25",
             "rating": 4.5,
             "numreviews": 12,
             "category": "face & beauty care",
-            "About the product":{
-
-            }
+            "productallimages": [
+                {
+                    "productimage": "/images/aloverajuice.webp"
+                },
+                {
+                    "productimage": "/images/cleanser.webp"
+                },
+                {
+                    "productimage": "/images/facewash.webp"
+                },
+                {
+                    "productimage": "/images/strach.png"
+                },
+                {
+                    "productimage": "/images/spot.png"
+                }
+            ],
+            "Abouttheproduct": [
+                {
+                    "productpoint": "Presentation : 100ml(SET OF 2)"
+                },
+                {
+                    "productpoint": "Treatment : Pimples and skin eruptions, healing infection while keeping the skin soft and smooth"
+                },
+                {
+                    "productpoint": "Dosage : Wash face 2-3 times a day with a mild soap. After washing apply a small quantity of cream on face and rub softly in circular motion"
+                },
+                {
+                    "productpoint": "Face cleanser for oily & dry skin, enhanced phytoceutics, acne -stress control"
+                },
+                {
+                    "productpoint": "Cleans the skin,retains moisture and make skin radiant & beautiful"
+                }
+            ]
         },
         {
             "title": "Neem Face Cleaner",
             "discount": "-25%",
             "description": " Antimicrobial Face Cleanser For All Types Of Skin ",
             "fulldescription": "Deltas Strechez Cream is a blend of herbal ingredients that averts and corrects marks naturally. Strechez cream hydrates softens nourishes rejuvenates the skin and supports in reducing the appearance of unsightly scars in a natural way. It diminishes discoloration visibly. Aloe vera helps heal rebuild and fade scars from surgeries like c sections weight loss and other. Helianthus annuus hydrates and adds suppleness to the skin.Triticum vulgare restores skin's natural texture and colour and minimizes formation of new scars. Composition: Aloe vera (Aloe leaf) 200% Piper longum (Long pepper fruit) 0.20 Lagenaria siceraria (Bottle gourd leaf) 1.00% Olea europaea (olive seed) 0.20% Cream Base: Helianthus annuus Glycine max Triticum vulgare Butyrospermum parkii Base materials with permitted preservatives q.s.Application Method for use: Use Skin Cleanser Milk before application of STRECHEZ Cream and apply sufficient STRECHEZ Cream in the direction of stretch lines with gentle circulatory and downward motion until completely absorbed by the skin. It is best to apply STRECHEZ Cream after you have had a shower or a bath when your skin is still slightly damp. For pregnancy: Pour some of the cream into your hand and then use your other hand to gently rub it into the skin of your bump and any areas that can be prone to stretch marks including your legs hips and back. Massage it gently on your bump in an upward to downward motion twice a day. Special instruction for usage: STRECHEZ Cream consists of natural extracts and essential oils useful for enhancing the circulation of skin and reducing the stretch mark. The increased blood flow provides a sensation of warmth and the application of STRECHEZ Cream creates mild to moderate redness with mild irritation; this enhances the absorption of natural ingredients in skin, the redness and mild irritation may remain for 1-2 hours and then subside on its own. In case if irritation persists for a longer time you may stop the application since you have sensitivity for cream.",
-        "quantity": "(100 gm)",
-            "image": "/images/cleanser.webp",
+            "quantity": "(100 gm)",
+            "coverimage": "/images/cleanser.webp",
             "mrp": "250",
             "price": "109.25",
             "rating": 4.5,
             "numreviews": 12,
             "category": "face & beauty care",
-            "About the product":{
-
-            }
+            "productallimages": [
+                {
+                    "productimage": "/images/aloverajuice.webp"
+                },
+                {
+                    "productimage": "/images/cleanser.webp"
+                },
+                {
+                    "productimage": "/images/facewash.webp"
+                },
+                {
+                    "productimage": "/images/strach.png"
+                },
+                {
+                    "productimage": "/images/spot.png"
+                }
+            ],
+            "Abouttheproduct": [
+                {
+                    "productpoint": "Presentation : 100ml(SET OF 2)"
+                },
+                {
+                    "productpoint": "Treatment : Pimples and skin eruptions, healing infection while keeping the skin soft and smooth"
+                },
+                {
+                    "productpoint": "Dosage : Wash face 2-3 times a day with a mild soap. After washing apply a small quantity of cream on face and rub softly in circular motion"
+                },
+                {
+                    "productpoint": "Face cleanser for oily & dry skin, enhanced phytoceutics, acne -stress control"
+                },
+                {
+                    "productpoint": "Cleans the skin,retains moisture and make skin radiant & beautiful"
+                }
+            ]
         },
         {
             "title": "Neem Face Cleaner",
             "discount": "-25%",
             "description": " Antimicrobial Face Cleanser For All Types Of Skin ",
             "fulldescription": "Deltas Strechez Cream is a blend of herbal ingredients that averts and corrects marks naturally. Strechez cream hydrates softens nourishes rejuvenates the skin and supports in reducing the appearance of unsightly scars in a natural way. It diminishes discoloration visibly. Aloe vera helps heal rebuild and fade scars from surgeries like c sections weight loss and other. Helianthus annuus hydrates and adds suppleness to the skin.Triticum vulgare restores skin's natural texture and colour and minimizes formation of new scars. Composition: Aloe vera (Aloe leaf) 200% Piper longum (Long pepper fruit) 0.20 Lagenaria siceraria (Bottle gourd leaf) 1.00% Olea europaea (olive seed) 0.20% Cream Base: Helianthus annuus Glycine max Triticum vulgare Butyrospermum parkii Base materials with permitted preservatives q.s.Application Method for use: Use Skin Cleanser Milk before application of STRECHEZ Cream and apply sufficient STRECHEZ Cream in the direction of stretch lines with gentle circulatory and downward motion until completely absorbed by the skin. It is best to apply STRECHEZ Cream after you have had a shower or a bath when your skin is still slightly damp. For pregnancy: Pour some of the cream into your hand and then use your other hand to gently rub it into the skin of your bump and any areas that can be prone to stretch marks including your legs hips and back. Massage it gently on your bump in an upward to downward motion twice a day. Special instruction for usage: STRECHEZ Cream consists of natural extracts and essential oils useful for enhancing the circulation of skin and reducing the stretch mark. The increased blood flow provides a sensation of warmth and the application of STRECHEZ Cream creates mild to moderate redness with mild irritation; this enhances the absorption of natural ingredients in skin, the redness and mild irritation may remain for 1-2 hours and then subside on its own. In case if irritation persists for a longer time you may stop the application since you have sensitivity for cream.",
-        "quantity": "(100 gm)",
-            "image": "/images/spot.png",
+            "quantity": "(100 gm)",
+            "coverimage": "/images/spot.png",
             "mrp": "250",
             "price": "109.25",
             "rating": 4.5,
             "numreviews": 12,
             "category": "face & beauty care",
-            "About the product":{
-
-            }
+            "productallimages": [
+                {
+                    "productimage": "/images/aloverajuice.webp"
+                },
+                {
+                    "productimage": "/images/cleanser.webp"
+                },
+                {
+                    "productimage": "/images/facewash.webp"
+                },
+                {
+                    "productimage": "/images/strach.png"
+                },
+                {
+                    "productimage": "/images/spot.png"
+                }
+            ],
+            "Abouttheproduct": [
+                {
+                    "productpoint": "Presentation : 100ml(SET OF 2)"
+                },
+                {
+                    "productpoint": "Treatment : Pimples and skin eruptions, healing infection while keeping the skin soft and smooth"
+                },
+                {
+                    "productpoint": "Dosage : Wash face 2-3 times a day with a mild soap. After washing apply a small quantity of cream on face and rub softly in circular motion"
+                },
+                {
+                    "productpoint": "Face cleanser for oily & dry skin, enhanced phytoceutics, acne -stress control"
+                },
+                {
+                    "productpoint": "Cleans the skin,retains moisture and make skin radiant & beautiful"
+                }
+            ]
         },
         {
             "title": "Berry Face Cleaner",
             "discount": "-20%",
             "description": " Antimicrobial Face Cleanser For All Types Of Skin ",
             "fulldescription": "Deltas Strechez Cream is a blend of herbal ingredients that averts and corrects marks naturally. Strechez cream hydrates softens nourishes rejuvenates the skin and supports in reducing the appearance of unsightly scars in a natural way. It diminishes discoloration visibly. Aloe vera helps heal rebuild and fade scars from surgeries like c sections weight loss and other. Helianthus annuus hydrates and adds suppleness to the skin.Triticum vulgare restores skin's natural texture and colour and minimizes formation of new scars. Composition: Aloe vera (Aloe leaf) 200% Piper longum (Long pepper fruit) 0.20 Lagenaria siceraria (Bottle gourd leaf) 1.00% Olea europaea (olive seed) 0.20% Cream Base: Helianthus annuus Glycine max Triticum vulgare Butyrospermum parkii Base materials with permitted preservatives q.s.Application Method for use: Use Skin Cleanser Milk before application of STRECHEZ Cream and apply sufficient STRECHEZ Cream in the direction of stretch lines with gentle circulatory and downward motion until completely absorbed by the skin. It is best to apply STRECHEZ Cream after you have had a shower or a bath when your skin is still slightly damp. For pregnancy: Pour some of the cream into your hand and then use your other hand to gently rub it into the skin of your bump and any areas that can be prone to stretch marks including your legs hips and back. Massage it gently on your bump in an upward to downward motion twice a day. Special instruction for usage: STRECHEZ Cream consists of natural extracts and essential oils useful for enhancing the circulation of skin and reducing the stretch mark. The increased blood flow provides a sensation of warmth and the application of STRECHEZ Cream creates mild to moderate redness with mild irritation; this enhances the absorption of natural ingredients in skin, the redness and mild irritation may remain for 1-2 hours and then subside on its own. In case if irritation persists for a longer time you may stop the application since you have sensitivity for cream.",
-        "quantity": "(100 gm)",
-            "image": "/images/facewash.webp",
+            "quantity": "(100 gm)",
+            "coverimage": "/images/facewash.webp",
             "mrp": "250",
             "price": "109.25",
             "rating": 4.5,
             "numreviews": 12,
             "category": "face & beauty care",
-            "About the product":{
-
-            }
+            "productallimages": [
+                {
+                    "productimage": "/images/aloverajuice.webp"
+                },
+                {
+                    "productimage": "/images/cleanser.webp"
+                },
+                {
+                    "productimage": "/images/facewash.webp"
+                },
+                {
+                    "productimage": "/images/strach.png"
+                },
+                {
+                    "productimage": "/images/spot.png"
+                }
+            ],
+            "Abouttheproduct": [
+                {
+                    "productpoint": "Presentation : 100ml(SET OF 2)"
+                },
+                {
+                    "productpoint": "Treatment : Pimples and skin eruptions, healing infection while keeping the skin soft and smooth"
+                },
+                {
+                    "productpoint": "Dosage : Wash face 2-3 times a day with a mild soap. After washing apply a small quantity of cream on face and rub softly in circular motion"
+                },
+                {
+                    "productpoint": "Face cleanser for oily & dry skin, enhanced phytoceutics, acne -stress control"
+                },
+                {
+                    "productpoint": "Cleans the skin,retains moisture and make skin radiant & beautiful"
+                }
+            ]
         }
     ]
 }

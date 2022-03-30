@@ -101,7 +101,7 @@ const TrendingProduct = () => {
                     <CardMedia
                       style={style}
                       component="img"
-                      image={product.image}
+                      image={product.coverimage}
                       alt="green iguana"
                     />
                     <Typography gutterBottom variant="h6" component="div" className="text-gray-500 text-center font-semibold font-serif">

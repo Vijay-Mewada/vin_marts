@@ -11,10 +11,11 @@ import { EmailSharp, ShoppingBag, ShoppingCartCheckoutOutlined } from '@mui/icon
 const ProductDetail = () => {
 const [isLoading, setLoading] = useState(true)
 const [item, setItem] = useState('')
+const [productImg, setProductImg] = useState('images/aloverajuice.webp') //this image should be dynamic and 1st image of the product
 const {t} = useTranslation();
 const router = useRouter();
 
-const props = { height: 300,offset :{ horizontal: 1}, zoomWidth: 500,zoomLensStyle:'opacity: 0.7;background-color: green',zoomStyle:"background-color: white;'", img: "/images/spot.png" };
+const props = { height: 300,offset :{ horizontal: 1}, zoomWidth: 500,zoomLensStyle:'opacity: 0.7;background-color: green',zoomStyle:"background-color: white;'", img: productImg };
 
   useEffect(async () => {
     // let res = await axios.get('https://fakestoreapi.com/products')
@@ -40,11 +41,14 @@ const props = { height: 300,offset :{ horizontal: 1}, zoomWidth: 500,zoomLensSty
         <Grid lg={4} xl={4}>
        <Grid container>
        <Grid lg={4} xl={4}>
-          <img src={props.img} className='h-24 m-1 border-2 border-black hover:border-blue-975 hover:border-4'/>
+         {item.products[0].productallimages.map((product,i)=>{
+          return<div><img src={product.productimage} onMouseOver={e =>  (setProductImg(e.currentTarget.src))} className='h-24 m-1 border-2 border-black hover:border-blue-975 hover:border-4'/></div>
+          })} 
+          {/* <img src={props.img} className='h-24 m-1 border-2 border-black hover:border-blue-975 hover:border-4'/>
           <img src="/images/strach.png" className='h-24 m-1 border-2 border-black hover:border-blue-975 hover:border-4'/>
           <img src="/images/strach.png" className='h-24 m-1 border-2 border-black hover:border-blue-975 hover:border-4'/>
           <img src="/images/strach.png" className='h-24 m-1 border-2 border-black hover:border-blue-975 hover:border-4'/>
-          <img src="/images/strach.png" className='h-24 m-1 border-2 border-black hover:border-blue-975 hover:border-4'/>
+          <img src="/images/strach.png" className='h-24 m-1 border-2 border-black hover:border-blue-975 hover:border-4'/> */}
        </Grid>
           <Grid lg={8} xl={8}>
         <ReactImageZoom {...props}  className='flex m-auto'/>
