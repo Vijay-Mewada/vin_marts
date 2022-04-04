@@ -196,6 +196,10 @@ const Cart = () => {
 
                             <div className='border-b-2 border-dashed border-gray-400 my-4 w-full'></div>
                             <Typography variant='body1' className='text-right text-blue-975 font-semibold'>Amount you save on this order &#x20B9;269</Typography>
+                            <div className='border-b-2 border-dashed border-gray-400 my-4 w-full'></div>
+                            <Button className='bg-blue-975 text-white m-auto hover:bg-blue-950 p-3 px-16 font-bold'>Place Order</Button>
+
+
                         </Grid>
 
 
