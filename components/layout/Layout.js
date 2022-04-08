@@ -1,3 +1,5 @@
+import { TurnedIn } from '@mui/icons-material'
+import { useRouter } from 'next/router'
 import React from 'react'
 import Category from '../category/Category'
 import Footer from '../footer/Footer'
@@ -7,15 +9,18 @@ import SubFooter from '../subfooter/SubFooter'
 import SubNavigation from '../subnavigation/SubNavigation'
 
 const Layout = ({children}) => {
+  const router = useRouter();
+  const showComponent = router.pathname === '/Login' || router.pathname === '/Register' ? false : true;
+  // const showComponent = router.pathname === '/Login' ? false : true;
   return (
     <div>
-        <Header />
+        {showComponent && <Header />}
         {/* <Navigation />
         <SubNavigation /> */}
-        <Category />
+        {showComponent && <Category />}
         {children}
-        <Footer />
-        <SubFooter/>
+        {showComponent && <Footer />}
+        {showComponent && <SubFooter/>}
         
     </div>
   )
