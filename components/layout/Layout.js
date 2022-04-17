@@ -10,7 +10,7 @@ import SubNavigation from '../subnavigation/SubNavigation'
 
 const Layout = ({children}) => {
   const router = useRouter();
-  const showComponent = router.pathname === '/Login' || router.pathname === '/Register' ? false : true;
+  const showComponent = router.pathname === '/Login' || router.pathname === '/Register' || router.pathname === '/AddressDetails' ? false : true;
   // const showComponent = router.pathname === '/Login' ? false : true;
   return (
     <div>
