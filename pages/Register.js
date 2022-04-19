@@ -40,7 +40,7 @@ const Register = () => {
 
 
         <hr className='w-full bg-blue-975 my-4 '/>
-        <Typography variant='body'>Already have an account ? <Link href="/Login"><span className="text-blue-975 cursor-pointer ">Login</span></Link> </Typography>
+        <Typography variant='body'>Already have an account ? <Link href="/Login" passHref><span className="text-blue-975 cursor-pointer ">Login</span></Link> </Typography>
         </div>
     </div>
   )
