@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { Delete, Favorite } from '@mui/icons-material';
 import { Grid, Typography, FormControl, Select, MenuItem, InputLabel, TextField, Button, Paper, Input } from '@mui/material'
 import React, { useState } from 'react'

@@ -1,9 +1,25 @@
 import { Button, TextField, Typography } from '@mui/material'
 import React from 'react'
 import Link from 'next/link'
+import { createTheme, ThemeProvider } from '@mui/material/styles';
 
 const Login = () => {
+
+  const theme = createTheme({
+
+    components: {
+      MuiFormLabel: {
+        styleOverrides: {
+          asterisk: {color:"red"},
+        },
+      },
+    },
+  
+  })
+
+
   return (
+    <ThemeProvider theme={theme}>
     <div className='flex'>
 
         <div className='m-auto my-6 border-gray-300 border rounded-lg p-6'>
@@ -26,9 +42,10 @@ const Login = () => {
 
 
         <hr className='w-full bg-blue-975 my-4 '/>
-        <Typography variant='body'>Create an account ? <Link href="/Register"><span className="text-blue-975 cursor-pointer ">Register</span></Link> </Typography>
+        <Typography variant='body'>Create an account ? <Link href="/Register" passHref><span className="text-blue-975 cursor-pointer ">Register</span></Link> </Typography>
         </div>
     </div>
+    </ThemeProvider>
   )
 }
 

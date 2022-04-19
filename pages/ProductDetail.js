@@ -1,3 +1,6 @@
+/* eslint-disable react-hooks/exhaustive-deps */
+/* eslint-disable @next/next/no-img-element */
+/* eslint-disable jsx-a11y/alt-text */
 import { Button, Grid, Typography } from '@mui/material';
 import React, { useEffect, useState } from 'react'
 import axios from 'axios';
@@ -42,7 +45,7 @@ const props = { height: 300,offset :{ horizontal: 1}, zoomWidth: 500,zoomLensSty
        <Grid container>
        <Grid lg={4} xl={4}>
          {item.products[0].productallimages.map((product,i)=>{
-          return<div><img src={product.productimage} onMouseOver={e =>  (setProductImg(e.currentTarget.src))} className='h-24 m-1 border-2 border-black hover:border-blue-975 hover:border-4'/></div>
+          return<div key={i}><img src={product.productimage} onMouseOver={e =>  (setProductImg(e.currentTarget.src))} className='h-24 m-1 border-2 border-black hover:border-blue-975 hover:border-4'/></div>
           })} 
           {/* <img src={props.img} className='h-24 m-1 border-2 border-black hover:border-blue-975 hover:border-4'/>
           <img src="/images/strach.png" className='h-24 m-1 border-2 border-black hover:border-blue-975 hover:border-4'/>
@@ -90,8 +93,8 @@ const props = { height: 300,offset :{ horizontal: 1}, zoomWidth: 500,zoomLensSty
                     </Typography>
                    
                     <ul>
-                    {item.products[0].Abouttheproduct.map((productmainpoint)=>{
-                      return<li className='text-xl font-semibold'>{productmainpoint.productpoint}</li>
+                    {item.products[0].Abouttheproduct.map((productmainpoint,i)=>{
+                      return<li className='text-xl font-semibold' key={i}>{productmainpoint.productpoint}</li>
                     })}
                     </ul>
 
@@ -105,11 +108,8 @@ const props = { height: 300,offset :{ horizontal: 1}, zoomWidth: 500,zoomLensSty
           {router.locales.map((locale) => (
            
             <li key={locale}>
-              <Link href={`${router.asPath}#hindi`} locale={locale}  >
-                
-                <a className='bg-blue-975 text-white font-semibold p-4 rounded-lg' href='/#hindi'>{locale}</a>
-
-                
+              <Link href={`${router.asPath}#hindi`} locale={locale} passHref>
+               <p className='bg-blue-975 text-white font-semibold p-4 rounded-lg mx-4 hover:cursor-pointer'>{locale}</p>
               </Link>&emsp;
             </li>
           
